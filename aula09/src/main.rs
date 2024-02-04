@@ -10,6 +10,11 @@ fn maximo(a: i32, b: i32) -> i32 {
   }
 }
 
+fn alguma_fn(par_a: f32, par_b: i128) -> f32 {
+  println!("Esta função devolve um valor flutuante");
+  10.1
+}
+
 fn main() {
   println!("O dobro de 5 é: {}", dobro(5));
   println!("O maior entre de 5 e 4 é: {}", maximo(5, 4));
