@@ -1,0 +1,18 @@
+Crie um novo arquivo de texto chamado "dados.txt" com algum conteúdo.
+
+Escreva um programa em Rust para abrir o arquivo "dados.txt" e imprimir o conteúdo na tela.
+
+Adicione novas linhas de texto ao final do arquivo "dados.txt" usando o programa em Rust.
+
+Escreva uma função para contar a quantidade de linhas no arquivo "dados.txt" e imprima o resultado na tela.
+
+Perguntas dessa tarefa
+Nesta questão, você será desafiado a escrever um programa em Rust para ler o conteúdo de um arquivo de texto e imprimi-lo na tela. Além disso, você deverá adicionar novos conteúdos ao final do arquivo e escrever uma função para contar a quantidade de linhas no arquivo.
+
+Para começar, você deve criar um novo arquivo de texto chamado "dados.txt" e adicionar algum conteúdo a ele. Em seguida, você deve escrever um programa em Rust para abrir o arquivo "dados.txt" e imprimir o conteúdo na tela.
+
+Você também precisará adicionar novas linhas de texto ao final do arquivo "dados.txt" usando o programa em Rust. Para isso, você precisará abrir o arquivo em modo de escrita e usar métodos apropriados para adicionar novo conteúdo ao final do arquivo.
+
+Por fim, você precisará escrever uma função para contar a quantidade de linhas no arquivo "dados.txt" e imprimir o resultado na tela. Isso pode ser feito lendo o arquivo linha por linha e contando quantas linhas foram lidas.
+
+Essa questão desafiará você a trabalhar com manipulação de arquivos e strings em Rust, bem como aplicar algoritmos para contar as linhas do arquivo.Conteudo extra
